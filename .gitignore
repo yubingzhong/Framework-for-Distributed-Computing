@@ -2,4 +2,6 @@ documents/
 dist/
 build/
 build.xml
+*.jar
+
 
