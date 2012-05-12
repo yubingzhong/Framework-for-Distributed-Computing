@@ -1,7 +1,8 @@
 documents/
 dist/
 build/
+.settings/
 build.xml
 *.jar
-
-
+.project
+.classpath
